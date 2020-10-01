@@ -1,1 +1,1 @@
-# clinica_y_laboratoria_AS
+# clinica_y_laboratorio_AS
